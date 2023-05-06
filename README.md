@@ -1,3 +1,6 @@
+# Right now this is in a very F*cked up shap
+## im trying to give a new life to this progect
+
 # gpt2bot
 
 <img src="https://github.com/polakowo/gpt2bot/blob/master/logo.png?raw=true" width=128>
