@@ -68,7 +68,7 @@ $ python run_bot.py --type=dialogue
 To get started, first clone this repo:
 
 ```
-$ git clone https://github.com/polakowo/gpt2bot.git
+$ git clone https://github.com/iparsw/gpt2_telegram_bot.git
 $ cd gpt2bot
 ```
 
