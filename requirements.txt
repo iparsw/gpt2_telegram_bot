@@ -1,4 +1,4 @@
 tensorflow>=2.10.0
 torch>=1.13.0
-transformers>=4.2.2
+transformers==4.2.2
 python-telegram-bot==13.1
