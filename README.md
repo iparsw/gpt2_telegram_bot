@@ -40,7 +40,7 @@ a community rather than an individual, which makes it even more fun.
 
 Before running a telegram bot, you can test things out in the console.
 
-Follow [the installation steps](https://github.com/polakowo/gpt2bot#locally) and run the script:
+Follow [the installation steps](https://github.com/iparsw/gpt2_telegram_bot#locally) and run the script:
 
 ```
 $ python run_bot.py --type=console
